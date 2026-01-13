@@ -1,0 +1,5 @@
+{
+  "name": "Manutenção Pro - Sistema de Orçamentos",
+  "description": "Sistema completo para gestão de orçamentos de manutenção, incluindo cadastro de clientes, equipamentos, serviços e geração de documentos profissionais para impressão.",
+  "requestFramePermissions": []
+}
